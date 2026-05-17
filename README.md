@@ -154,7 +154,9 @@ The system automatically generates:
 * Palash Dandapat
 * Mangal Adikary
 * Mahek Saha
-* 
+  
 Department of Computer Science and Engineering
 KIIT, Bhubaneswar
 
+### Privacy Concerns: 
+Due to privacy reasons, we are unable to include demo videos or photos in this repository.
